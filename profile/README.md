@@ -16,6 +16,3 @@ Chartino Labs is the experimental playground of two Principal-level engineers â€
 We build tools, frameworks, and insights for modern automation, testing, and networking â€” with a focus on decoupling our work from proprietary lock-in.
 
 Everything here is open by design: part R&D, part documentation, part digital garage.
-
-Right monitor: https://expo.ciscodcloud.com/yltxt7d16jzp9ie5xufod6vz
-Left monitor: https://cl-ltr.ciscolabs.com/4eb6f2de2e/
